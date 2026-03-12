@@ -1,6 +1,10 @@
+![downloader](https://socialify.git.ci/clueNA/downloader/image?font=Raleway&language=1&name=1&owner=1&pattern=Transparent&theme=Dark)
 # YouTube Downloader
 
 A clean, user-friendly YouTube video downloader web application built with **Python**, **Streamlit**, and **yt-dlp**.
+
+## 🌐 Live Demo
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://yt-down-loader.streamlit.app/)
 
 ## Features
 
